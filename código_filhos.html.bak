@@ -1,0 +1,215 @@
+<!doctype HTML>
+<html>
+  <head>
+    <title> 3vs </title>
+   <meta charset="utf-8" />
+   <meta name="keywords" content= "gatos, amores, felinos" />
+   <meta name="description" content= "Página para declarar meu amor pelos meus filhos" />
+   <!-- CSS -->
+   <link rel="stylesheet" href="css/estilo.css" type="text/css" />
+   <style>
+    body{
+	font-family: verdan;
+	}
+	a{
+	text-decoration:none;
+	}
+   </style>
+  </head>
+  <body>
+    <header> 
+	 <h1> Este site é para os meus bebezinhos </h1>
+	 </header>
+	 <nav> <!-- link --> </nav>
+     
+    <section>
+      <article>
+         <header> 
+		   <h2>
+           <a href="file:///C:/Users/letic/Desktop/Code/HTML/c%C3%B3digo_filhos.html#descvicente" >Clique aqui para conhecer um pouco mais sobre meu amores</a>
+		   </h2>
+		 </header>
+		     <p id="boasvindas"> BEM VINDO! </p>
+			 <p id="divimg3vs">
+         	 <img id="img3vs" src="C:\Users\letic\Pictures\Insta fotos\bebes.jpg" width="850" height="505"/>
+			 </p>
+			 <section id="descvicente">
+			 <p id="vicente" style="color:DodgerBlue;"> Vicente 
+			 </p>
+			 <p id="descvi" style="color:black;"> O Vicente é o mais velho, tem 11 anos! É branco com manchinhas amarelas. Usa uma coleira azul para combinar com seus olhos.
+			 Ama ficar no quintal cheirando flores e tirar cochilinhos de conchinha comigo. Eu fui adotada pelo Vicente em 2019 quando me mudei para a casa que
+			 ele estava morando. A antiga dona dele havia falecido e ele estava lá sozinho. Muitas pessoas tinham tentado adotá-lo sem sucesso, fico feliz que ele tenha me escolhido.
+			 Vicente é meio rabugento com os irmãos e não tem muita paciência, mas é muito dengoso e ama o carinho da mamãe. Mas ai de mim se eu pular a hora do sachê ou
+			 do petisco kkkk, muito metódico, quando da a hora ele já fica em frente ao pote. Quase não mia, apenas quando quer alguma coisa. 
+			 APELIDOS: Vico, Vicentinho, Vi, Branco, Sujinho, Vicentoso, Vicenso, bebezão. - Aniversário:19/02 - Aquariano.
+			 </p>
+			 <p id="fotosvi">
+			 <div id="imgvi1">
+		   <img src="C:\Users\letic\Pictures\Insta fotos\vicente.jpeg" width="250"/>
+		   </div id="imgvi1">
+		   <div id="imgvi2">
+		   <img src="C:\Users\letic\Pictures\vi\vipink.jpg" width="250"/>
+		   </div id="imgvi2">
+		   <div id="imgvi3">
+		   <img src="C:\Users\letic\Pictures\vi\vi.jpg" width="340"/>
+		   </div id="imgvi3">
+		   <div id="imgvi4">
+		   <img src="C:\Users\letic\Pictures\Insta fotos\euevi.jpg" width="340"/>
+		   </div id="imgvi4">
+		     </p>
+			 </section>
+			 <p id="Valentim"style="color:green;"> Valentim
+			 </p>
+			 <p id="descval" style="color:black;"> Valentim é um frajolinha preto e branco e de olhos verdes. Usa uma coleira preta para combinar com seu pêlo. Era o caçulinha das mamães até perder o posto kkkk (o que ele não gostou nada). 
+			 Chegou para a família em 2021 quando tinha 1 ano e meio. O mais fotogênico e dono de uma imensa simpatia, o que faz com que ele seja o queridinho da vizinhança. 
+			 Ciumento, costuma bater nos irmãos se estiver entediado ou chateado. Gosta muito de brincar, principalmente com lacres ou com seus brinquedos favoritos (uma bolsinha e um gorro de papai noel) levando eles para todo lugar que vai. 
+			 Adora dormir em cima da geladeira ou do guarda roupa durante o dia e a noite dorme nos pés da mamãe, o que as vezes faz com que ela ganhe umas mordidas. 
+			 Ele está sempre olho nas mamães e seguindo elas pela casa, é o primeiro a ir na janela em caso de fofocas. Mas e se ele fica sozinho? Ah, ai ele chora, chora e chora bastante miando 
+			 pela casa até receber atenção. Não gosta muito de colo, mas ama um carinho e beijinhos. É apaixonado pela prima Pixu e adora ficar olhando ela quando está no quintal e ela na janela do andar de cima. 
+			 APELIDOS: VAL, Valentinho, Valentoso, Valente, Chorão, Preto e branco, Caçulinha, Prupruzinho da mamãe. - Aniversário:20/11 - Escorpiano.			 
+			 </p>
+			 <p id="fotosval">
+			 <div id="imgval1">
+		   <img src="C:\Users\letic\Pictures\Insta fotos\valentim.jpeg" width="250"/>
+		   </div id="imgvi1">
+		   <div id="imgval2">
+		   <img src="C:\Users\letic\Desktop\Code\HTML\CSS\valentim5.jpg" width="250"/>
+		   </div id="imgvi2">
+		   <div id="imgval3">
+		   <img src="C:\Users\letic\Desktop\Code\HTML\CSS\valentim3.jpg" width="250"/>
+		   </div id="imgvi3">
+		   <div id="imgval4">
+		   <img src="C:\Users\letic\Desktop\Code\HTML\CSS\beijinhoval" width="250"/>
+		   </div id="imgvi4">
+		     </p>
+			 <p style="color:purple;"> Violeta
+			 </p>
+			 <p>
+		   <img src="C:\Users\letic\Pictures\Insta fotos\violeta.jpeg" width="250"/>
+		     </p>
+      </article>
+	    <article>
+		<header> Vídeos </header>
+		<p> Vídeos dos meus amores </p>
+		<video controls>
+		<source src="C:\Users\letic\Pictures\Insta fotos\vival.mp4" type="video/mp4" />
+		</video>
+		</article>
+		<article>
+		<header> Musica </header>
+		<p> Musica da Violeta </p>
+		<audio autoplay="autoplay" controls>
+		<source src="C:\Users\letic\Pictures\Insta fotos\chama.mp3" />
+		</audio>
+		</article>
+		<article>
+		  <header> Links </header>
+		  <p> 
+		  <a href="https://codepen.io/leticiaguimas" target="_blank"> Codepen LE </a>
+		  </p>
+		  <p> Link relativo
+		  <a href="C:\Users\letic\Desktop\Code like a girl\HTML\Exercicio.html" target="_blank"> Exercicio Le </a>
+		  </p>
+		   <p>
+		  <a href="https://www.linkedin.com/in/leticiaguimas/" target="_blank">
+		  <img src="C:\Users\letic\Pictures\Insta fotos\eu.jpg" width="50" />
+		  </a>
+		  </p>
+		  <p>
+		  <hr/>
+		  <a href="mailto:lexieguimas@gmail.com?subject=Duvidas sobre o site&cc=leticia_guimaraes2025@hotmail.com">
+		   Contato
+		  </a>
+		  </p>
+		  <hr/>
+		  <p>
+		   <div itemscope itemtype="http://schema.org/Person">
+		   <span itemprop="name">Letícia Guimarães</span>
+		   <span itemprop="jobtitle">Mãe do Vicente, Valentim e Violeta</span>
+		   <span itemprop="streetadress">Santos, SP</span>
+		   <span itemprop="url">www.leticiaguimaraes.com.br</span>
+		   </div>
+		   </p>
+		   <p>
+		    <hr/>
+		   <p>Link para download
+		     <a href="C:\Users\letic\Pictures\Insta fotos\vi.zip">
+			 Clique aqui para baixar</a>
+			 </p>
+		  </article>
+    </section>
+	<section>
+	<header> Listas </header>
+	 <article id="listas">
+	<p>Listas ordenadas
+      <ol start="6" type="A">
+	    <li> Sachês </li>
+		<li> Petiscos </li>
+		<li> Ração </li>
+		<li> Areia </li>
+		<li> Brinquedos </li>
+		</ol>
+	</p>
+	<p>Listas não ordenadas
+      <ul type="square">
+	    <li> Segunda </li>
+		<li> Terça </li>
+		<li> Quarta </li>
+		<li> Quinta </li>
+		<li> Sexta </li>
+		</ul>
+	</p>
+	<p>Listas de definição
+      <dl>
+	   <dt> Capítulo 1 </dt>
+	    <dd> Primeiro </dd>
+		<dd> Segundo </dd>
+		<dd> Terceiro </dd>
+		<dd> Quarto </dd>
+		<dd> Quinto </dd>
+		</dl>
+	</p>	
+	 </article>
+	</section>
+	<section>
+	 <header> Tabelas </header>
+	 <article>
+	  <p>
+	   <table border="6">
+	    <thead>
+		 <th> ID Gatos </th>
+		 <th> Nomes </th>
+		 <th> Produtos Gatos </th>
+		</thead>
+		<tbody>
+		 <tr>
+          <td> Branco</td>
+          <td> Vicente</td>
+          <td> Pestico</td>
+		 </tr>
+		 <tr>
+		  <td> Preto e Branco</td>
+          <td class="cor"> Valentim</td>
+          <td> Sachê</td>
+		 </tr>
+		 <tr>
+		  <td> Cinza</td>
+          <td> Violeta</td>
+          <td> Brinquedos</td>
+		 </tr>
+         <tr>
+		  <td colspan="3"> Gatos lindos </td>
+         </tr>		 
+		</tbody>
+	   </table>
+	  </p>
+	  </article>
+	</section>
+	<aside> <!-- Area de publicidade-- </aside>
+	<footer>
+	?copy 2014 - Todos os direitos reservados
+	</footer>
+  </body>
+    
+  
+</html>
